@@ -1,8 +1,8 @@
-# BAE305 Lab 10 - Data Informatics
+# BAE305 Lab 11 - Data Informatics Part 2
 
 Rebecca Stacy
 
-March 28th, 2024
+March 27th, 2024
 
 ## Summary
 
