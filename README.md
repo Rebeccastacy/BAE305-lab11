@@ -8,6 +8,6 @@ March 28th, 2024
 
 ## Code
 
-[Link to Code](https://github.com/Rebeccastacy/BAE305-lab11/blob/main/Lab2.ipynb)
+[Lab 2 Code](https://github.com/Rebeccastacy/BAE305-lab11/blob/main/Lab2.ipynb)
 
 ## Conclusion
