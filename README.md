@@ -1,6 +1,13 @@
-# HEC-2109-4-Lab2
+# BAE305 Lab 10 - Data Informatics
 
-Contains material and python code needed for HEC Class Two Week Python Module in September 2021
+Rebecca Stacy
 
-Click here to run in mybinder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jvkrogmeier/HEC-2109-4-Lab2/HEAD)
+March 28th, 2024
+
+## Summary
+
+## Code
+
+[Link to Code]()
+
+## Conclusion
