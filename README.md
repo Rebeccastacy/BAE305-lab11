@@ -10,7 +10,7 @@ The goal of this lab was to further familiarize student with Python. This was ac
 
 ## Code
 
-[Lab 11 Code]([https://github.com/Rebeccastacy/BAE305-lab11/blob/main/Lab2.ipynb](https://github.com/Rebeccastacy/BAE305-lab11/blob/main/Lab2.md))
+[Lab 11 Code](   
 
 ## Conclusion 
 
