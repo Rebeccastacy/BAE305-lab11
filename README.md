@@ -12,6 +12,8 @@ The goal of this lab was to further familiarize student with Python. This was ac
 
 [Lab 11 Code](https://github.com/Rebeccastacy/BAE305-lab11/blob/main/Lab2.ipynb)
 
-## Conclusion
+https://notebooks.gesis.org/binder/jupyter/user/jvkrogmeier-hec-2109-4-lab2-r6x98yq4/lab/tree/Lab2.ipynb 
+
+## Conclusion 
 
 From this lab, I became more comfortable with python and with using AI to help me code. While some of the code was provided 
